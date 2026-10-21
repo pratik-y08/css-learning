@@ -8,13 +8,13 @@ Welcome to my **CSS Learning Repository**! This repo contains all my practice fi
 
 Below is the chapter-by-chapter roadmap tracking my progress through Harry's course modules:
 
-- [x] **Chapter 1: Introduction to CSS**
+- [ ] **Chapter 1: Introduction to CSS**
   - Installing VS Code, Live Server & Chrome DevTools setup
   - Ways to add CSS: Inline, Internal & External CSS
   - Basic CSS Selectors: Element, Class (`.`), and ID (`#`)
   - CSS Comments and Syntax
 
-- [x] **Chapter 2: Colors, Backgrounds & Typography**
+- [ ] **Chapter 2: Colors, Backgrounds & Typography**
   - Text formatting (`font-family`, `font-size`, `font-weight`, `line-height`)
   - Color Systems: Names, `RGB`, `HEX`, and `HSL`
   - Background properties: `background-color`, `background-image`, `background-size`, `background-repeat`
