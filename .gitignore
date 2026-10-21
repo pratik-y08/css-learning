@@ -1,0 +1,22 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Code Editor & IDE Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+
+# Log & Temporary Files
+*.log
+*.tmp
+*.swp
+
+# Node Modules (if you use NPM or build tools later)
+node_modules/
+dist/
+build/
